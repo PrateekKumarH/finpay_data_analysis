@@ -102,20 +102,13 @@ This project demonstrates how **raw fintech transaction data** can be transforme
 
 ## 📊 Dashboard Previews
 
-### Overview Dashboard
-![Overview Dashboard](finpay_dashboard/images/overview.heic)
-
+### Overview Dashboard 
 ### Payment Insights
-![Payment Insights](finpay_dashboard/images/payment_insights.heic)
-
 ### Merchant Insights
-![Merchant Insights](finpay_dashboard/images/merchant_insights.heic)
-
 ### User Insights
-![User Insights](finpay_dashboard/images/user_insights.heic)
-
 ### Trends & Time Analysis
-![Trends Dashboard](finpay_dashboard/images/trends.heic)
+
+All the images are give in finpay dashboard folder.
 
 ---
 
