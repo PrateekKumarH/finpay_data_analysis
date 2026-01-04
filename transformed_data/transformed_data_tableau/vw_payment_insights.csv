@@ -1,0 +1,13 @@
+payment_method,status,transaction_count,total_amount,status_percentage
+card,success,15538,8398542.29,85.41117
+card,failed,1727,943732.68,9.49318
+card,refund,927,519808.16,5.09565
+google_pay,success,50755,27872540.31,84.95698
+google_pay,refund,2946,1614689.56,4.93120
+google_pay,failed,6041,3317525.54,10.11181
+upi,failed,3647,2009716.27,10.12268
+upi,success,30531,16731185.92,84.74242
+upi,refund,1850,1042239.24,5.13490
+wallet,success,5135,2837469.48,85.04472
+wallet,failed,606,331523.63,10.03644
+wallet,refund,297,183421.61,4.91885
