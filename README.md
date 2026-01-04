@@ -99,3 +99,33 @@ The project uses a **Fact–Dimension (Star Schema)** design to optimize analyti
 This project demonstrates how **raw fintech transaction data** can be transformed into a **scalable analytics solution** that enables **data-driven decision-making** across payments, users, merchants, and time-based performance.
 
 ---
+
+## 📊 Dashboard Previews
+
+### Overview Dashboard
+![Overview Dashboard](finpay_dashboard/images/overview.png)
+
+### Payment Insights
+![Payment Insights](finpay_dashboard/images/payment_insights.png)
+
+### Merchant Insights
+![Merchant Insights](finpay_dashboard/images/merchant_insights.png)
+
+### User Insights
+![User Insights](finpay_dashboard/images/user_insights.png)
+
+### Trends & Time Analysis
+![Trends Dashboard](finpay_dashboard/images/trends.png)
+
+---
+
+## License  
+This project is for academic/demo purposes. Feel free to fork and adapt!
+
+---
+
+## Contact  
+Author: Prateek Kumar  
+LinkedIn: https://www.linkedin.com/in/prateekkumar23/
+📧Email: h.prateekumar@gmail.com
+📅 Created: 4th January 2026
