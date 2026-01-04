@@ -1,0 +1,5 @@
+payment_method,payment_method_id
+google_pay,1
+card,2
+upi,3
+wallet,4
